@@ -1,0 +1,6 @@
+/home/marikawalzpinion/Programs/test_10-04-2025_exti_vs_uart/build/Debug/CMakeFiles/test_10-04-2025_exti_vs_uart.dir
+/home/marikawalzpinion/Programs/test_10-04-2025_exti_vs_uart/build/Debug/CMakeFiles/edit_cache.dir
+/home/marikawalzpinion/Programs/test_10-04-2025_exti_vs_uart/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/marikawalzpinion/Programs/test_10-04-2025_exti_vs_uart/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/marikawalzpinion/Programs/test_10-04-2025_exti_vs_uart/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/marikawalzpinion/Programs/test_10-04-2025_exti_vs_uart/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

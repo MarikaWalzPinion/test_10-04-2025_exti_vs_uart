@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/home/marikawalzpinion/Programs/test_10-04-2025_exti_vs_uart",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 2, ColumnLimit: 120, SortIncludes: false }",
+    // "cortex-debug.armToolchainPath.linux": "/wsl.localhost/Ubuntu/usr/share/gcc-arm-none-eabi-13.2.rel1//bin/arm-none-eabi-gdb",
+    // "cortex-debug.gdbPath": "gdb-multiarch",
+    // "cortex-debug.gdbPath.linux": "home/marikawalzpinion/Programs/test/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin", //maybe without .linux?!
+     }
+ 
